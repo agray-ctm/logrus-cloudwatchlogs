@@ -10,10 +10,10 @@ import (
 
 	"github.com/kdar/gtest"
 	"github.com/sirupsen/logrus"
-	"github.com/smartystreets/assertions/should"
+	"github.com/smarty/assertions/should"
 )
 
-//Example is a struct that implements Marshaler. It marshals as a map where "Content" is set to the value of A, and B is discarded
+// Example is a struct that implements Marshaler. It marshals as a map where "Content" is set to the value of A, and B is discarded
 type Example struct {
 	A, B string
 }
