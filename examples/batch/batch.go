@@ -8,7 +8,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/kdar/logrus-cloudwatchlogs"
+	"github.com/agray-ctm/logrus-cloudwatchlogs"
 	"github.com/sirupsen/logrus"
 )
 

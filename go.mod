@@ -1,4 +1,4 @@
-module github.com/kdar/logrus-cloudwatchlogs
+module github.com/agray-ctm/logrus-cloudwatchlogs
 
 go 1.13
 
